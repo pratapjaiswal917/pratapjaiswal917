@@ -1,3 +1,4 @@
+![logo](https://github.com/pratapjaiswal917/pratapjaiswal917/blob/main/Profile%20Banner%200.png)
 <h1 align="center">Hi 👋, I'm Pratap Kumar Jaiswal</h1>
 <h3 align="center">I'm a Data Analyst with expertise in Python, SQL, Excel, and Power BI. I enjoy analyzing data to derive insights and make informed decisions.</h3>
 
