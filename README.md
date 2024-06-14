@@ -19,7 +19,7 @@
 - 🌱 I’m currently using: **Mastering Tools like Python, SQL, Tableau, Excel and Power BI.**
 
 - 👯 I’m looking to collaborate on: **Data Analyst & Machine Learning Projects.**
-- 👨‍💻 Checkout my Portfolio:: https://linktr.ee/pratapjaiswal917
+- 👨‍💻 Checkout my Portfolio:: https://pratapjaiswal917.github.io/
 - 👨‍💻 Checkout my BI Portfolio:: https://www.novypro.com/profile_about/pratap-kumar-jaiswal
 - 💬 Ask me about: **SQL, Machine Learning, Python, Power Bi, Excel.**
 - 🌻 I am available for : **Data Analyst / Scientist and Business Analyst roles.**
