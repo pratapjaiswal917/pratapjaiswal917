@@ -13,7 +13,7 @@
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapjaiswal917&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🔭 I’m currently working at: **Intellipaat.**
+- 🔭 I’m currently working at: **GENETIC WEB TECHNOLOGIES PRIVATE LIMITED.**
 - 💫 Experience: **Data Sciencist and Business Analyst Intern @MeriSkill and @ConTechxs Solutions Pvt.Ltd.**
 
 - 🌱 I’m currently using: **Mastering Tools like Python, SQL, Tableau, Excel and Power BI.**
